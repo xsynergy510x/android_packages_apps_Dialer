@@ -15,9 +15,8 @@
      limitations under the License.
 -->
 
-<!--Allow recording for country: Spain-->
-<!--Legal precedent source: http://www.legalisconsultores.es/2014/04/es-legal-realizar-grabacionesse-pueden-aportar-como-prueba-en-juicios/ -->
+<!--Allow recording for country: Norway-->
+<!--Legal precedent source: https://www.datatilsynet.no/verktoy-skjema/Veiledere/Lydopptak-/ -->
 <resources>
-    <bool name="call_recording_enabled">true</bool>
 
 </resources>
