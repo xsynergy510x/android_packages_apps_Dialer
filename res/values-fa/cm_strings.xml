@@ -23,7 +23,7 @@
   <string name="enable_forward_lookup_title">ارسال جستجو</string>
   <string name="enable_forward_lookup_summary">نمایش مکان‌های نزدیک هنگام جستجو در شماره‌گیر</string>
   <string name="enable_people_lookup_title">جستجوی افراد</string>
-  <string name="enable_people_lookup_summary">نمایش نتایج آنلاین افراد هنگام جستجو در شماره‌گیر</string>
+  <string name="enable_people_lookup_summary">نمایش نتایج آنلاین برای افراد هنگام جستجو در شماره‌گیر</string>
   <string name="enable_reverse_lookup_title">جستجوی برعکس</string>
   <string name="enable_reverse_lookup_summary">جستجوی اطلاعات مربوط به افراد یا مکان‌ها برای شماره‌های ناشناس در تماس‌های ورودی</string>
   <string name="forward_lookup_provider_title">ارسال ارائه‌دهنده سرویس جستجو</string>
@@ -64,8 +64,8 @@
   <string name="date_qs_lastyear">سال گذشته</string>
   <string name="call_stats_date_filter">تنظیم محدوده زمانی</string>
   <string name="call_stats_reset_filter">تنظیم مجدد محدوده زمانی</string>
-  <string name="call_stats_sort_by_duration">دسته‌بندی بر اساس مدت تماس</string>
-  <string name="call_stats_sort_by_count">دسته‌بندی بر اساس تعداد تماس</string>
+  <string name="call_stats_sort_by_duration">مرتب‌سازی براساس مدت تماس</string>
+  <string name="call_stats_sort_by_count">مرتب‌سازی براساس تعداد تماس</string>
   <string name="menu_add_to_blacklist">افزودن به لیست تماس‌گیرنده‌های مسدود شده</string>
   <string name="toast_added_to_blacklist">%s به لیست تماس‌گیرنده‌های مسدود شده افزوده شد.</string>
   <string name="speed_dial_settings">تنظیمات تماس سریع</string>
